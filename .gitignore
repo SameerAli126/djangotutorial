@@ -20,3 +20,6 @@ staticfiles/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Personal documents
+/Muhammad_Sameer_Ali_CV*.pdf
